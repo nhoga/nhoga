@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello how are you? My name is Nicolas, I am a Full Stack Web Developer, I recently graduated from a programming bootcamp, I will be sharing my individual and group projects!
+Hello how are you? My name is Nicolas, I am a Full Stack Web Developer, focused on JavaScript, I like both the backend and the frontend, both edges are very interesting to me, learning every day
 
 Greetings! ⚡
  
